@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+:root{
+    --marrom01: #D9A78B;
+    --marrom02: #A67458;
+    --marrom03: #8C4E37;
+    --marrom04: #594D42;
+    --marrom05: #0D0000;
+    
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
